@@ -1,4 +1,3 @@
-
 #calculate 
 
 A=input("Do you want to use calculate ? (Y/N)")
